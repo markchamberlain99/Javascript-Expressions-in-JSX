@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const fname = "John";
+const fname = "Johnny Boy";
 const lname = "Doe";
 const luckyNumber = 7;
 
